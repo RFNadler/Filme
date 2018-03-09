@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="apiKey">coloque a sua chave</string>
+    <string name="urlAPI">https://api.themoviedb.org/3/</string>
+    <string name="languageDefault">pt-BR</string>
+    <string name="apiCONFIGURATION">configuration</string>
+
+    <string name="txtErroServidor">Erro ao tentar acessar o servidor</string>
+
+</resources>
